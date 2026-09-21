@@ -5,11 +5,11 @@ A MySQL project that analyses a book database (books, users and ratings) to answ
 
 The goal of this project is to explore a book-rating dataset using SQL and extract useful insights such as:
 
-1.Which authors and publishers get the most ratings
-2.Who the most engaged users are
-3.Which countries have the most users
-4.How book publishing changed over the years
-5.Which books were never rated
+1.Which authors and publishers get the most ratings \n
+2.Who the most engaged users are \n
+3.Which countries have the most users \n
+4.How book publishing changed over the years \n
+5.Which books were never rated \n
 
 # Repository Structure
 book-management-sql/
