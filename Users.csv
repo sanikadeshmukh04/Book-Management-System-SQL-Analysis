@@ -1,0 +1,701 @@
+﻿User-ID,City ,State,Country,Age
+1,nyc, new york, usa,29
+2,stockton, california, usa,18
+3,moscow, yukon territory, russia,29
+4,porto, v.n.gaia, portugal,17
+5,farnborough, hants, united kingdom,29
+6,santa monica, california, usa,61
+7,washington, dc, usa,29
+8,timmins, ontario, canada,29
+9,germantown, tennessee, usa,29
+10,albacete, wisconsin, spain,26
+11,melbourne, victoria, australia,14
+12,fort bragg, california, usa,29
+13,barcelona, barcelona, spain,26
+14,mediapolis, iowa, usa,29
+15,calgary, alberta, canada,29
+16,albuquerque, new mexico, usa,29
+17,chesapeake, virginia, usa,29
+18,rio de janeiro, rio de janeiro, brazil,25
+19,weston,virginia,spain,14
+20,langhorne, pennsylvania, usa,19
+21,ferrol / spain, alabama, spain,46
+22,erfurt, thueringen, germany,29
+23,philadelphia, pennsylvania, usa,29
+24,cologne, nrw, germany,19
+25,oakland, california, usa,55
+26,bellevue, washington, usa,29
+27,chicago, illinois, usa,32
+28,freiburg, baden-wuerttemberg, germany,24
+29,cuernavaca, alabama, mexico,19
+30,anchorage, alaska, usa,24
+31,shanghai, victoria, china,20
+32,portland, oregon, usa,29
+33,costa mesa, california, usa,34
+34,london, england, united kingdom,29
+35,grafton, wisconsin, usa,17
+36,montreal, quebec, canada,24
+37,san sebastian, victoria, spain,23
+38,viterbo, lazio, italy,34
+39,cary, north carolina, usa,29
+40,tonawanda, new york, usa,32
+41,santee, california, usa,14
+42,appleton, wisconsin, usa,17
+43,mÃ©xico, mÃ©xico city, distrito federal,29
+44,black mountain, north carolina, usa,51
+45,berlin, victoria, germany,29
+46,heidelberg, baden-wuerttemberg, germany,31
+47,vicenza, veneto, italy,21
+48,chicago, illinois, usa,29
+49,rome, rome, italy,29
+50,london, england, united kingdom,17
+51,renton, washington, usa,34
+52,braunschweig, niedersachsen, germany,29
+53,tacoma, washington, usa,29
+54,eubank, kentucky, usa,44
+55,calgary, alberta, canada,29
+56,cheyenne, wyoming, usa,24
+57,roma, lazio, italy,29
+58,edmonton, alberta, canada,29
+59,asheville, north carolina, usa,23
+60,trieste, friuli venezia giulia, italy,29
+61,winfield, alabama, usa,30
+62,kennewick, washington, usa,29
+63,nyack, new york, usa,57
+64,lyon, rhone, france,32
+65,victoria, victoria, australia,29
+66,warman, saskatchewan, canada,30
+67,framingham, massachusetts, usa,43
+68,montreal, quebec, canada,29
+69,vancouver, british columbia, canada,29
+70,rochester, new york, usa,44
+71,toronto, ontario, canada,24
+72,gloucester, england, united kingdom,34
+73,wentzville, missouri, usa,29
+74,amsterdam, victoria, netherlands,30
+75,long beach, california, usa,37
+76,charleston, south carolina, usa,29
+77,vancouver, british columbia, canada,29
+78,oakland, california, usa,18
+79,ottawa, ontario, canada,20
+80,etobicoke, ontario, canada,29
+81,santa cruz, california, usa,29
+82,del mar, california, usa,29
+83,eugene, oregon, usa,29
+84,san diago, california, usa,29
+85,london, england, united kingdom,41
+86,los angeles, california, usa,29
+87,richardson, texas, usa,29
+88,fayetteville, georgia, usa,29
+89,plano, texas, usa,54
+90,powhatan, virginia, usa,42
+91,toronto/newmarket, ,spain,29
+92,castellar del valles, barcelona, spain,20
+93,eden, wisconsin, usa,50
+94,tehran, tehran, iraq,39
+95,grand island, new york, usa,29
+96,helsinki, alaska, finland,29
+97,mechanicsburg, pennsylvania, usa,29
+98,pukekohe, auckland, new zealand,19
+99,franktown, colorado, usa,42
+100,madrid, victoria, spain,44
+101,nagpur, idaho, india,26
+102,barcelona, victoria, spain,29
+103,litchfield park, arizona, usa,53
+104,foxboro, massachusetts, usa,47
+105,hull, england, united kingdom,36
+106,rome, georgia, usa,29
+107,lethbridge, alberta, canada,29
+108,claremore, oklahoma, usa,29
+109,muncie, indiana, usa,20
+110,peoira, illinois, usa,29
+111,avintes, v.n. gaia, portugal,25
+112,mexico city, d.f., mexico,32
+113,san francisco, california, usa,29
+114,ligonier, pennsylvania, usa,57
+115,canton, ohio, usa,29
+116,burien, washington, usa,29
+117,ann arbor, michigan, usa,57
+118,kronberg, hessen, ghana,28
+119,huntington, vermont, usa,35
+120,villeneuve d`ascq, nord, france,13
+121,rochester, minnesota, usa,29
+122,charlotte, north carolina, usa,29
+123,ann arbor, michigan, usa,24
+124,papillion, nebraska, usa,58
+125,lansing, michigan, usa,49
+126,eindhoven, noord-brabant, netherlands,24
+127,geneva, ge, switzerland,28
+128,allison park, pennsylvania, usa,29
+129,bloomington, minnesota, usa,47
+130,roma, lazio, italy,29
+131,chapel hill, north carolina, usa,29
+132,silver spring, maryland, usa,38
+133,jacksonville, florida, usa,45
+134,canberra, australian capital territory, australia,29
+135,berkshire, new york, usa,29
+136,sacramento, california, usa,29
+137,vancouver, british columbia, canada,29
+138,santa, california, usa,28
+139,baltimore, maryland, usa,35
+140,kappelrodeck, baden-wuerttemberg, germany,24
+141,darien, new york, usa,29
+142,derby, kansas, usa,29
+143,san francisco, california, usa,26
+144,cape girardeau, missouri, usa,62
+145,inverness, scotland, united kingdom,29
+146,la, california, usa,29
+147,west haverstraw, new york, usa,29
+148,essex, england, united kingdom,63
+149,ljubljana, victoria, slovenia,29
+150,mashhad, islam, iran,25
+151,darwin, northern territory, australia,29
+152,enschede, overijssel, netherlands,26
+153,lille, nord of france, france,24
+154,saskatoon, saskatchewan, canada,29
+155,lion, abruzzo, peru,29
+156,sarajevo, victoria, bosnia and herzegovina,20
+157,legnano, lombardia, italy,36
+158,nufringen, baden-wuerttemberg, germany,38
+159,plymouth, minnesota, usa,29
+160,almada, victoria, portugal,20
+161,lisboa, lisboa, portugal,27
+162,newark, delaware, usa,29
+163,carlsbad, california, vietnam,29
+164,tuxtla gutierrez, chiapas, mexico,33
+165,olympia, washington, usa,62
+166,bacchus marsh, victoria, australia,20
+167,helena, montana, usa,29
+168,sunnyvale, california, usa,44
+169,arlington, virginia, usa,29
+170,roswell, georgia, usa,29
+171,itaÃ­, sÃ£o paulo, brazil,29
+172,rio de janeiro, rio de janeiro, brazil,66
+173,ames, iowa, usa,29
+174,kandy, central, sri lanka,31
+175,porto, victoria, portugal,29
+176,london, london, united kingdom,34
+177,amsterdam, victoria, netherlands,46
+178,rexford, new york, usa,28
+179,wazirabad, punjab, pakistan,29
+180,copenhagen n, victoria, denmark,29
+181,karachi, sindh, pakistan,29
+182,buitenpost, fryslÃ¢n, netherlands,36
+183,porto, porto, portugal,27
+184,seattle, washington, usa,29
+185,baton rouge, louisiana, usa,17
+186,jacksonville, north carolina, usa,29
+187,mcas futenma fpo ap okinawa, victoria, usa,29
+188,portland, oregon, usa,17
+189,blankenberge, victoria, belgium,31
+190,wezembeek-oppem, brussels, belgium,33
+191,berlin, berlin, germany,40
+192,sunnyvale, california, usa,29
+193,mumbai, maharashtra, india,23
+194,lake forest, illinois, usa,29
+195,chandler, arizona, usa,23
+196,subang jaya, selangor darul ehsan, malaysia,33
+197,brantford, ontario, canada,29
+198,augsburg, bayern, germany,21
+199,austin, texas, usa,38
+200,aberdeen, scotland, united kingdom,27
+201,sharjah, sharjah, u.a.e,29
+202,ottawa, ontario, canada,28
+203,charleston, south carolina, usa,29
+204,turner, oregon, usa,15
+205,istanbul, victoria, turkey,23
+206,versailles, ile de france, france,60
+207,west bend, wisconsin, usa,29
+208,bremen, bremen, germany,29
+209,pj, selangor, malaysia,21
+210,albany, new york, usa,54
+211,lleida, lleida, spain,21
+212,manila, victoria, philippines,21
+213,gainesville, florida, usa,29
+214,longmont, colorado, usa,27
+215,port alberni, british columbia, canada,20
+216,barcelona, georgia, spain,42
+217,spencer, massachusetts, usa,29
+218,hyderabad, alabama, india,41
+219,bismark, sachsen-anhalt, greece,29
+220,bogota, bogota, colombia,0
+221,palm beach, florida, usa,79
+222,kingston, massachusetts, usa,29
+223,wazirabad, punjab, pakistan,29
+224,strafford, missouri, usa,29
+225,elgin, texas, usa,29
+226,new york, new york, usa,29
+227,high wycombe, bucks, united kingdom,29
+228,ann arbor, michigan, usa,41
+229,delhi, delhi, india,22
+230,ny, new york, usa,29
+231,mumbai, maharashtra, india,29
+232,mumbai, maharashtra, india,16
+233,tampere, pirkanmaa, finland,29
+234,joensuu, victoria, finland,25
+235,oeiras, lisboa, portugal,22
+236,s. pasadena, california, usa,29
+237,plymouth, minnesota, usa,27
+238,guildford, surrey, united kingdom,23
+239,fort worth, texas, usa,29
+240,brisbane, queensland, australia,20
+241,auburn, alabama, usa,29
+242,neuffen, baden-wuerttemberg, germany,37
+243,arden hills, minnesota, usa,29
+244,college station, texas, usa,29
+245,lajolla, california, usa,31
+246,tananger, rogaland, norway,16
+247,zografou, athens, greece,23
+248,chilliwack, british columbia, canada,15
+249,amsterdam, noord-holland, netherlands,29
+250,minneapolis, minnesota, usa,25
+251,valladolid, castilla y leÃ³n, spain,54
+252,13001 safat, kuwait, kuwait,65
+253,milano, lombardia, italy,28
+254,minneapolis, minnesota, usa,24
+255,antofagasta, alabama, chile,32
+256,boston, massachusetts, usa,29
+257,quit, quit, quit,29
+258,ljk, lkj, lj,29
+259,jacksonville, north carolina, usa,45
+260,chisholm, minnesota, usa,51
+261,lonsee, baden-wuerttemberg, germany,45
+262,rockford, illinois, usa,28
+263,houston, texas, usa,29
+264,taipei, victoria, taiwan,23
+265,tianjin, victoria, china,24
+266,kalgary, alberta, canada,29
+267,cleveland, ohio, usa,29
+268,Ã¥rhus,victoria,spain,29
+269,aarhus, jylland, denmark,29
+270,tawern, rheinland-pfalz, germany,29
+271,karachi, pakistan, pakistan,22
+272,walla walla, washington, usa,20
+273,snohomish, washington, usa,29
+274,bologna, emilia romagna, italy,26
+275,calgary, alberta, canada,29
+276,hillsboro, oregon, usa,29
+277,dubbo, new south wales, australia,15
+278,chicago, illinois, usa,21
+279,berkshire, england, united kingdom,29
+280,yakima, washington, usa,29
+281,dresden, sachsen, germany,31
+282,victoria, british columbia, canada,29
+283,gig harbor, washington, usa,29
+284,barcelona, barcelona, spain,35
+285,cambridge, cambridgeshire, united kingdom,29
+286,seattle, washington, usa,17
+287,gardena, california, usa,29
+288,hallowell, maine, usa,19
+289,tampa, florida, usa,15
+290,ravenna, ohio, usa,29
+291,ft. collins, colorado, usa,29
+292,tucson, arizona, usa,22
+293,winnipeg, manitoba, canada,25
+294,poway, california, usa,29
+295,lanham, maryland, usa,28
+296,lleida, lleida, spain,21
+297,daly city, california, usa,27
+298,oakland, california, usa,29
+299,paris, paris, france,42
+300,newport news, virginia, usa,29
+301,walled lake, michigan, usa,32
+302,capitola, california, usa,53
+303,poway, california, usa,29
+304,kailua, hawaii, usa,24
+305,poway, california, usa,29
+306,boston, massachusetts, usa,29
+307,koski, uusimaa, finland,27
+308,getxo, yukon territory, espaÃ±a,53
+309,london, england, united kingdom,30
+310,barcelona, victoria, spain,26
+311,ridderkerk, victoria, netherlands,34
+312,lk, jlk,spain,29
+313,rutherford, new jersey, usa,29
+314,Ã¥rhus, victoria, denmark,28
+315,stockholm, stockholm, sweden,29
+316,kyle, saskatchewan, canada,23
+317,tyner, north carolina, usa,41
+318,berlin, victoria,spain,29
+319,1407 kÃ¸benhavn k, victoria, denmark,32
+320,minneapolis, minnesota, usa,37
+321,liaquat pur, punjab, pakistan,24
+322,bergen, yukon territory, norway,29
+323,seattle, washington, usa,23
+324,valencia, bukidnon, philippines,29
+325,zÃ¼rich, mittelland, switzerland,29
+326,parkville, missouri, usa,29
+327,dallas, texas, usa,29
+328,moscow, idaho, usa,33
+329,sanghar, sindh, pakistan,21
+330,quezon city, victoria, philippines,29
+331,buenos aires, buenos aires, argentina,60
+332,lake oswego, oregon, usa,59
+333,barcelona, alberta, spain,23
+334,jyvÃ¤skylÃ¤, victoria, finland,27
+335,modena, emilia romagna, italy,27
+336,bilbao, vizcaya, spain,27
+337,mÃ¡laga, victoria, spain,17
+338,minneapolis, minnesota, usa,29
+339,tampere, pirkanmaa, finland,20
+340,cebu, cebu, philippines,15
+341,ormesson, ile de france, france,50
+342,sokoto, niedersachsen, nigeria,28
+343,mesa, arizona, usa,29
+344,leicester, england, united kingdom,25
+345,columbia, tennessee, usa,27
+346,montreal, quebec, canada,29
+347,montreal, quebec, canada,34
+348,berkeley, california, usa,29
+349,sÃ¸nderborg, victoria, denmark,29
+350,siena, toscana, italy,29
+351,ankara, turkey, turkey,29
+352,windsor, connecticut, usa,28
+353,madrid, victoria, spain,41
+354,belo horizonte, minas gerais, brazil,29
+355,london, uk, london,29
+356,leesburg, virginia, usa,29
+357,newcastle upon  tyne, england, united kingdom,29
+358,burbank, california, usa,29
+359,springville, california, usa,29
+360,barcelona, barcelona, spain,33
+361,premiÃ  de dalt, barcelona, spain,25
+362,thunder bay, ontario, canada,63
+363,uhingen, baden-wuerttemberg, germany,29
+364,aveiro, beira litoral, portugal,29
+365,milano, europe, italy,29
+366,sofia, alberta, bulgaria,29
+367,culver city, california, usa,45
+368,west point, virginia, usa,35
+369,lenexa, kansas, usa,29
+370,sacramento, california, usa,29
+371,los barriles, b.c.s., mexico,29
+372,bamberg, bayern, germany,22
+373,vienna, vienna, austria,29
+374,braunschweig, niedersachsen, germany,45
+375,leipzig, sachsen, germany,28
+376,fishers, indiana, usa,35
+377,kuala lumpur, klang, malaysia,29
+378,nice, california, usa,57
+379,vancouver, british columbia, canada,47
+380,amarillo, texas, usa,29
+381,fort lauderdale, florida, usa,29
+382,kansas city, kansas, usa,29
+383,carmichael, california, usa,29
+384,bucuresti, victoria, romania,23
+385,paris, victoria, france,29
+386,karaj, tehran, iran,20
+387,charity, missouri, usa,17
+388,nashville, tennessee, usa,35
+389,barcelona, catalunya, spain,22
+390,chapmanville, west virginia, usa,48
+391,waco, texas, usa,29
+392,barcelona, catalunya, spain,44
+393,brighton, east sussex, united kingdom,24
+394,lonodn, calabria, united kingdom,25
+395,madrid, victoria, spain,24
+396,jakobsberg, stockholm, sweden,29
+397,almada, almada, portugal,50
+398,wanganui, wellington region, new zealand,29
+399,abuja, fct abuja, nigeria,41
+400,st. louis, missouri, usa,29
+401,la plata, buenos aires, argentina,28
+402,manchester, england, united kingdom,19
+403,romeo, michigan, usa,29
+404,chicago, illinois, usa,37
+405,berlin, berlin, germany,29
+406,madrid, madrid, spain,37
+407,lahore, punjab, pakistan,29
+408,mountain view, california, usa,17
+409,almada, almada, portugal,50
+410,york, yorkshire, united kingdom,40
+411,defiance, ohio, usa,27
+412,indianapolis, indiana, usa,29
+413,naperville, illinois, usa,17
+414,portland, oregon, usa,34
+415,gilbert, arizona, usa,29
+416,warrington, pennsylvania, usa,31
+417,downers grove, illinois, usa,29
+418,baltimore, maryland, usa,29
+419,grove city, pennsylvania, usa,14
+420,canberra, australian capital territory, australia,14
+421,sioux city, iowa, usa,47
+422,edmonton, alberta, canada,23
+423,kenilworth, england, united kingdom,29
+424,portland, oregon, usa,29
+425,calgary, alberta, canada,32
+426,san francisco, california, usa,29
+427,townsville, queensland, australia,29
+428,cleveland, ohio, usa,29
+429,brockport, new york, usa,25
+430,silver spring, maryland, usa,29
+431,ridgway, pennsylvania, usa,40
+432,kansas city, missouri, usa,29
+433,smock, pennsylvania, usa,48
+434,dallas, texas, usa,29
+435,naples, florida, usa,29
+436,ivanhoe, melbourne, victoria,53
+437,sault ste. marie, ontario, canada,29
+438,rome, lazio, italy,34
+439,tiburon, california, usa,29
+440,brookfield, wisconsin, usa,16
+441,spokane, washington, usa,29
+442,london, victoria, united kingdom,24
+443,lawrenceburg, indiana, usa,47
+444,sweet home, oregon, usa,40
+445,archdale, north carolina, usa,29
+446,chevy chase, dc, usa,29
+447,medford, new jersey, usa,29
+448,batavia, new york, usa,22
+449,metamora, illinois, usa,29
+450,napoli, campania, italy,31
+451,bismarck, north dakota, usa,33
+452,louisville, kentucky, usa,29
+453,charleston, west virginia, usa,29
+454,norwich, norfolk, united kingdom,50
+455,calgary, alberta, canada,54
+456,norridgewock, maine, usa,31
+457,esher, england, united kingdom,62
+458,kenniwick, washington, usa,17
+459,east moline, illinois, usa,37
+460,roma, italy, italy,29
+461,singapore, victoria, singapore,15
+462,brookside, new jersey, usa,18
+463,rouse hill, new south wales, australia,20
+464,dahanu, maharashtra, india,24
+465,charleston, west virginia, usa,29
+466,saint paul, minnesota, usa,29
+467,livingston, new jersey, usa,29
+468,whittier, california, usa,29
+469,corona, california, usa,18
+470,indianapolis, indiana, usa,0
+471,melbourne, victoria, australia,31
+472,livingston, new jersey, usa,29
+473,makati city, luzon, philippines,25
+474,arlington, texas, usa,29
+475,vancouver, british columbia, canada,34
+476,rome, new york, usa,29
+477,charlottesville, virginia, usa,45
+478,albuquerque, new mexico, usa,13
+479,iowa city, iowa, usa,29
+480,wanamassa, new jersey, usa,62
+481,canyon country, california, usa,29
+482,valencia, california, usa,46
+483,shelton, washington, usa,72
+484,clarkston, michigan, usa,17
+485,las vegas, nevada, usa,51
+486,portland, oregon, usa,31
+487,houston, texas, usa,29
+488,boston, massachusetts, usa,25
+489,cape girardeau, missouri, usa,29
+490,milwaukee, wisconsin, usa,29
+491,windsor, ontario, canada,26
+492,chicago, illinois, usa,60
+493,manhattan, kansas, usa,29
+494,parry sound, ontario, canada,29
+495,nashville, tennessee, usa,29
+496,west salem, wisconsin, usa,51
+497,susquehanna, pennsylvania, usa,51
+498,charleston, south carolina, usa,29
+499,la verne, california, usa,62
+500,san antonio, texas, usa,17
+501,richmond, virginia, usa,29
+502,dearborn, michigan, usa,47
+503,el centro, california, usa,40
+504,tularosa, new mexico, usa,29
+505,washington, dc, usa,51
+506,ottawa, ontario, canada,29
+507,dumas, arkansas, usa,29
+508,portland, oregon, usa,29
+509,greensboro, north carolina, usa,29
+510,portland, oregon, usa,29
+511,berkeley, california, usa,29
+512,winter springs, florida, usa,58
+513,savannah, georgia, usa,29
+514,bonney lake, washington, usa,30
+515,bourbonnais, illinois, usa,24
+516,seattle, washington, usa,29
+517,grinnell, iowa, usa,22
+518,melbourne, victoria, australia,29
+519,sheffield, england, united kingdom,23
+520,humble, texas, usa,29
+521,jefferson city, missouri, usa,29
+522,red deer, alberta, canada,29
+523,bozeman, montana, usa,19
+524,valentine, new south wales, australia,37
+525,issy les moulineaux, ile de france, france,29
+526,hamburg, hamburg, germany,35
+527,mainz, rheinland-pfalz, germany,22
+528,singapore, alabama, singapore,16
+529,new york, new york, usa,28
+530,moab, utah, usa,47
+531,st. augustine, florida, usa,56
+532,cordoba, argentina, argentina,53
+533,london, england, united kingdom,31
+534,rosharon, texas, usa,59
+535,sfgsdfg, calabria, italy,29
+536,hcm, hcm, vietnam,20
+537,davis, california,spain,29
+538,perryville, missouri, usa,26
+539,saint louis, missouri, usa,29
+540,watertown, south dakota, usa,67
+541,brooklyn, new york, usa,45
+542,fort worth, texas, usa,29
+543,hanoi, hanoi, vietnam,27
+544,england, england, united kingdom,29
+545,pomona, missouri, usa,29
+546,firenze, toscana, italy,51
+547,presque isle, maine, usa,29
+548,lynn haven, florida, usa,29
+549,mansfield, pennsylvania, usa,29
+550,karachi, sindh, pakistan,29
+551,kolkata, victoria, india,19
+552,united states, california, usa,29
+553,nykÃ¸bing sjÃ¦lland, victoria, denmark,16
+554,angra heroismo, yukon territory, portugal,29
+555,teramo, abruzzo, italy,36
+556,port charlotte, florida, usa,31
+557,oceanside, colorado, usa,49
+558,burnaby, ,spain,29
+559,pulaski, virginia, usa,29
+560,napoleonville, louisiana, usa,29
+561,shrewsbury, pennsylvania, usa,35
+562,adfdaf, australian capital territory, albania,0
+563,amsterdam, new york, usa,29
+564,franksville, wisconsin, usa,15
+565,franklin, tennessee, usa,48
+566,springfield, illinois, usa,29
+567,spokane, washington, usa,29
+568,alexandria, alexandria, egypt,29
+569,lahore, punjab, pakistan,28
+570,grand rapids, michigan, usa,29
+571,diemen, victoria, netherlands,23
+572,gabes, gabes, tunisia,23
+573,cairo, connecticut, egypt,31
+574,terrassa, catalunya, spain,33
+575,gaia, douro litoral, portugal,23
+576,bern, prince edward island, switzerland,35
+577,andimeshk, khozestan, iran,29
+578,parksville, british columbia, canada,29
+579,tiruchirapalli, victoria, india,29
+580,logroÃ±o, la rioja, spain,22
+581,zaragoza, aragÃ³n, spain,45
+582,adelaide, south australia, australia,56
+583,tashkent, uzbekistan, uzbekistan,19
+584,doha, doha, qatar,23
+585,milano, lombardia, italy,29
+586,kuala-lumpur, selangor, malaysia,26
+587,bologna, bologna, italy,29
+588,roseville, minnesota, usa,60
+589,gassino torinese, piemonte, italy,29
+590,mÃ¼nster, victoria, germany,29
+591,miami beach, florida, usa,42
+592,boston, massachusetts, usa,29
+593,port hawkesbury, nova scotia, canada,28
+594,london, england, united kingdom,29
+595,hollywood, florida, usa,17
+596,san francisco, california, usa,49
+597,astoria, new york, usa,43
+598,raqqa, raqqa, syria,34
+599,north plainfield, new jersey, usa,36
+600,tehran, tehran, iran,20
+601,grande prairie, alberta, canada,29
+602,forest grove, oregon, usa,23
+603,bielefeld, nordrhein-westfalen, germany,29
+604,knox, indiana, usa,42
+605,manheim, pennsylvania, usa,29
+606,elbert, colorado, usa,29
+607,beijing, beijing, china,31
+608,somerville, massachusetts, usa,30
+609,madrid, madrid, spain,34
+610,valencia, victoria, spain,19
+611,solbiate, lombardia, italy,24
+612,oak park, illinois, usa,20
+613,ankara, victoria, turkey,1
+614,montecassiano, marche, italy,28
+615,parede, lisboa, portugal,29
+616,fremont, california, usa,34
+617,porto, victoria, portugal,54
+618,providence, rhode island, usa,29
+619,long beach, mississippi, usa,29
+620,toronto, ontario, canada,45
+621,segovia, victoria, spain,48
+622,salvador, bahia, brazil,23
+623,buenos aires, buenos aires, argentina,29
+624,amsterdam, noord-holland, netherlands,29
+625,marseille, provence, france,41
+626,graz, steiermark, austria,41
+627,pittsburgh, pennsylvania, usa,29
+628,berlin, berlin, germany,29
+629,kiel, schleswig-holstein, germany,44
+630,paris, victoria, france,33
+631,fort collins, colorado, usa,29
+632,rochester, minnesota, usa,15
+633,kÃ¶ln, nordrhein-westfalen, germany,29
+634,dÃ¼sseldorf, nordrhein-westfalen, germany,50
+635,toronto, ontario, canada,24
+636,durham, north carolina, usa,29
+637,singapore, singapore, singapore,20
+638,san diego, california, usa,20
+639,washington dc, virginia, usa,29
+640,scotch village, nova scotia, canada,29
+641,portland, oregon, usa,29
+642,houston, texas, usa,37
+643,grenoble, rhone-alpes, france,23
+644,garden city, michigan, usa,29
+645,ottawa, ontario, canada,29
+646,cardiff, wales, united kingdom,21
+647,perth, western australia, australia,35
+648,kamloops, british columbia, canada,29
+649,san diego, california, usa,29
+650,santa cruz, california, usa,29
+651,interlachen, florida, usa,26
+652,slippery rock, pennsylvania, usa,29
+653,bristol, wales, united kingdom,29
+654,ottawa, ontario, canada,30
+655,monroe, north carolina, usa,58
+656,feilding, manawatu, new zealand,29
+657,chattanooga, tennessee, usa,29
+658,jasper, georgia, usa,61
+659,simcoe, ontario, canada,29
+660,ny, new york, usa,29
+661,zweibrÃ¼cken, rheinland-pfalz, germany,22
+662,high prairie, alberta, canada,21
+663,vigo, galicia, spain,49
+664,alicante, alicante, spain,26
+665,linkÃ¶ping, Ã¶stergÃ¶tland, sweden,29
+666,gurgaon, victoria, india,29
+667,gurgaon, haryana, india,29
+668,nasik, maharashtra, india,27
+669,kannur, kerala, india,24
+670,ernakulam, kerala, india,29
+671,jeddah, jeddah, saudi arabia,1
+672,calcutta, west bengal, india,29
+673,varanasi, uttar pradesh, india,23
+674,pune, pune, india,29
+675,solapur, maine, india,29
+676,london, abruzzo, italy,31
+677,baton rouge, louisiana, usa,27
+678,yabulu, queensland, australia,29
+679,oregon city, oregon, usa,65
+680,edgewood, maryland, usa,28
+681,banda aceh, nad, indonesia,20
+682,smyrna, georgia, usa,44
+683,union, illinois, usa,28
+684,atlanta, georgia, usa,44
+685,stevens point, wisconsin, usa,21
+686,lahore, isl, pakistan,29
+687,montemor-o-novo, alberta, romania,35
+688,beacon hill, new south wales, australia,14
+689,paris, victoria, france,22
+690,lake oswego, oregon, usa,80
+691,london, greater london, united kingdom,25
+692,ottawa, kansas, usa,44
+693,alexandria, virginia, usa,58
+694,indianapolis, indiana, usa,29
+695,alphen aan den rijn, zuid holland, netherlands,29
+696,windsor, ontario, canada,13
+697,montreal, quebec, canada,29
+698,palo alto, california, usa,29
+699,norwich, england, united kingdom,29
+700,georgetown, victoria, malaysia,16
